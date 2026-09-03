@@ -1,0 +1,15 @@
+tcga_code,organ,mapping_valid_for_baseline_model,gtex_pattern,matched_gtex_tissues,mapping_note
+BLCA,bladder,FALSE,^Bladder$,Bladder,GTEx bladder n is very small
+BRCA,breast,TRUE,^Breast - Mammary Tissue$,Breast - Mammary Tissue,Direct organ mapping
+COAD,colon,TRUE,^Colon -,Colon - Sigmoid;Colon - Transverse,Colon subregions pooled
+ESCA,esophagus,TRUE,^Esophagus -,Esophagus - Gastroesophageal Junction;Esophagus - Mucosa;Esophagus - Muscularis,Esophageal subregions pooled
+HNSC,head and neck,FALSE,,,No defensible single GTEx reference
+KICH,kidney,TRUE,^Kidney - Cortex$,Kidney - Cortex,Direct organ mapping
+KIRC,kidney,TRUE,^Kidney - Cortex$,Kidney - Cortex,Direct organ mapping
+KIRP,kidney,TRUE,^Kidney - Cortex$,Kidney - Cortex,Direct organ mapping
+LIHC,liver,TRUE,^Liver$,Liver,MAOB/CYP3A4 tumor-normal cells reserved
+LUAD,lung,TRUE,^Lung$,Lung,Direct organ mapping
+LUSC,lung,TRUE,^Lung$,Lung,Direct organ mapping
+PRAD,prostate,TRUE,^Prostate$,Prostate,Direct organ mapping
+STAD,stomach,TRUE,^Stomach$,Stomach,Direct organ mapping
+THCA,thyroid,TRUE,^Thyroid$,Thyroid,Direct organ mapping

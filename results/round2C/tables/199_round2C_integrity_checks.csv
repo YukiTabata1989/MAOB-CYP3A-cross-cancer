@@ -1,0 +1,29 @@
+check,result,expected,passed,details
+R_version,4.6.1,4.6.1,TRUE,Exact requested runtime version
+round2B_target_grid_rows,70,70,TRUE,Authoritative 121 table was read only
+round2B_patient_cache_total,661,661,TRUE,Counts agree with the 121 table
+Xena_source_pair_total,644,644,TRUE,Stage 1 source-specific pairs across the 14 audit projects
+round2C_output_grid_rows,70,70,TRUE,Full 14-cancer by 5-gene grid
+round2C_unique_cells,TRUE,TRUE,TRUE,No duplicated cancer-gene cells
+Xena_BH_test_count,70,70,TRUE,BH recalculated from all 70 new Xena P values
+count_level_overlap_cells,43,43,TRUE,Finite Xena shift and finite Round 2B logFC
+LIHC_MAOB_included,TRUE,TRUE,TRUE,Paired-expression audit only
+LIHC_CYP3A4_included,TRUE,TRUE,TRUE,Paired-expression audit only
+patient_set_comparisons_recorded,70,70,TRUE,"Source-specific patient differences are retained, not imputed"
+round2B_files_unchanged,TRUE,TRUE,TRUE,57 Round 2B files checked by MD5
+main_analysis_modules_recomputed,FALSE,FALSE,TRUE,"No limma-voom, tissue identity, matched background, recurrence, baseline, coexpression, or HPA module is present"
+forbidden_LIHC_or_clinical_modules_run,FALSE,FALSE,TRUE,"No LIHC coexpression, survival, clinical, subgroup, immune, pathway, or purity analysis is present"
+patient_set_BLCA,exact_match,comparison_recorded_for_all_5_genes,TRUE,Xena=19; Round2B=19; common=19; Xena_only=0; Round2B_only=0
+patient_set_BRCA,source_specific_mismatch_recorded,comparison_recorded_for_all_5_genes,TRUE,Xena=112; Round2B=113; common=112; Xena_only=0; Round2B_only=1
+patient_set_COAD,source_specific_mismatch_recorded,comparison_recorded_for_all_5_genes,TRUE,Xena=26; Round2B=41; common=26; Xena_only=0; Round2B_only=15
+patient_set_ESCA,exact_match,comparison_recorded_for_all_5_genes,TRUE,Xena=13; Round2B=13; common=13; Xena_only=0; Round2B_only=0
+patient_set_HNSC,exact_match,comparison_recorded_for_all_5_genes,TRUE,Xena=43; Round2B=43; common=43; Xena_only=0; Round2B_only=0
+patient_set_KICH,exact_match,comparison_recorded_for_all_5_genes,TRUE,Xena=25; Round2B=25; common=25; Xena_only=0; Round2B_only=0
+patient_set_KIRC,exact_match,comparison_recorded_for_all_5_genes,TRUE,Xena=72; Round2B=72; common=72; Xena_only=0; Round2B_only=0
+patient_set_KIRP,exact_match,comparison_recorded_for_all_5_genes,TRUE,Xena=32; Round2B=32; common=32; Xena_only=0; Round2B_only=0
+patient_set_LIHC,exact_match,comparison_recorded_for_all_5_genes,TRUE,Xena=50; Round2B=50; common=50; Xena_only=0; Round2B_only=0
+patient_set_LUAD,exact_match,comparison_recorded_for_all_5_genes,TRUE,Xena=58; Round2B=58; common=58; Xena_only=0; Round2B_only=0
+patient_set_LUSC,source_specific_mismatch_recorded,comparison_recorded_for_all_5_genes,TRUE,Xena=50; Round2B=51; common=50; Xena_only=0; Round2B_only=1
+patient_set_PRAD,exact_match,comparison_recorded_for_all_5_genes,TRUE,Xena=52; Round2B=52; common=52; Xena_only=0; Round2B_only=0
+patient_set_STAD,source_specific_mismatch_recorded,comparison_recorded_for_all_5_genes,TRUE,Xena=33; Round2B=33; common=32; Xena_only=1; Round2B_only=1
+patient_set_THCA,exact_match,comparison_recorded_for_all_5_genes,TRUE,Xena=59; Round2B=59; common=59; Xena_only=0; Round2B_only=0

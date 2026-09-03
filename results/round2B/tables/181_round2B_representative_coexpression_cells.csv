@@ -1,0 +1,4 @@
+tcga_code,partner,n_pairs,detection_normal_MAOB,detection_tumor_MAOB,detection_normal_partner,detection_tumor_partner,rho_normal,rho_tumor,delta_rho,bootstrap_valid,ci_low,ci_high,p_value,status,organ,q_value_primary,passes_coexpression_effect,robust_rewiring,rewiring_direction
+BRCA,CYP3A5,113,1,1,1,1,0.3618920087830196,-0.0887617273271675,-0.4506537361101871,2000,-0.6779362139873529,-0.19257239662938822,9.995002498750624e-4,primary_n_ge_30,breast,0.006663334999167083,TRUE,TRUE,more_negative_in_tumor
+KIRC,CYP3A4,72,1,1,1,0.9861111111111112,0.8820502926233199,0.14933436233841407,-0.7327159302849058,2000,-0.9801316085851269,-0.46613665428987244,9.995002498750624e-4,primary_n_ge_30,kidney,0.006663334999167083,TRUE,TRUE,more_negative_in_tumor
+KIRP,CYP3A4,32,1,1,1,0.96875,0.939516129032258,0.25513196480938416,-0.6843841642228738,2000,-1.0380221881560623,-0.37364612787793217,9.995002498750624e-4,primary_n_ge_30,kidney,0.006663334999167083,TRUE,TRUE,more_negative_in_tumor

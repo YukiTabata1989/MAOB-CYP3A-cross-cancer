@@ -1,0 +1,51 @@
+gene,tissue,n_hpa_rows,hpa_expression,tissue_rank
+CYP3A4,liver,1,3367.1,1
+CYP3A4,small intestine,1,754.5,2
+CYP3A4,duodenum,1,713,3
+CYP3A4,kidney,1,4.2,4
+CYP3A4,adrenal gland,1,3.4,5
+CYP3A4,rectum,1,2,6
+CYP3A4,colon,1,1.7,7
+CYP3A4,skin,1,1.2,8
+CYP3A4,stomach,1,1.1,9
+CYP3A4,appendix,1,0.8,10
+CYP3A43,liver,1,38.6,1
+CYP3A43,pancreas,1,1.9,2
+CYP3A43,testis,1,0.7,3
+CYP3A43,prostate,1,0.5,4
+CYP3A43,cerebral cortex,1,0.4,5
+CYP3A43,skeletal muscle,1,0.3,6
+CYP3A43,bone marrow,1,0.2,7
+CYP3A43,breast,1,0.2,8
+CYP3A43,kidney,1,0.2,9
+CYP3A43,salivary gland,1,0.2,10
+CYP3A5,liver,1,198.9,1
+CYP3A5,small intestine,1,167.3,2
+CYP3A5,duodenum,1,119.9,3
+CYP3A5,stomach,1,81.5,4
+CYP3A5,gallbladder,1,30.6,5
+CYP3A5,colon,1,26.6,6
+CYP3A5,rectum,1,19.7,7
+CYP3A5,skin,1,14.3,8
+CYP3A5,urinary bladder,1,9.7,9
+CYP3A5,adrenal gland,1,7.2,10
+CYP3A7,liver,1,285.4,1
+CYP3A7,kidney,1,7.9,2
+CYP3A7,gallbladder,1,6.1,3
+CYP3A7,lung,1,2.3,4
+CYP3A7,small intestine,1,1.7,5
+CYP3A7,prostate,1,0.9,6
+CYP3A7,adrenal gland,1,0.8,7
+CYP3A7,duodenum,1,0.5,8
+CYP3A7,epididymis,1,0.3,9
+CYP3A7,stomach,1,0.3,10
+MAOB,liver,1,296.9,1
+MAOB,ovary,1,164.3,2
+MAOB,seminal vesicle,1,146.3,3
+MAOB,kidney,1,116,4
+MAOB,skeletal muscle,1,107.4,5
+MAOB,smooth muscle,1,96.6,6
+MAOB,fallopian tube,1,92.2,7
+MAOB,heart muscle,1,91.6,8
+MAOB,choroid plexus,1,91.1,9
+MAOB,endometrium,1,86.1,10

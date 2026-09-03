@@ -1,0 +1,201 @@
+gene,tissue,n_hpa_rows,hpa_expression
+CYP3A4,liver,1,3367.1
+CYP3A4,small intestine,1,754.5
+CYP3A4,duodenum,1,713
+CYP3A4,kidney,1,4.2
+CYP3A4,adrenal gland,1,3.4
+CYP3A4,rectum,1,2
+CYP3A4,colon,1,1.7
+CYP3A4,skin,1,1.2
+CYP3A4,stomach,1,1.1
+CYP3A4,appendix,1,0.8
+CYP3A4,lymph node,1,0.8
+CYP3A4,testis,1,0.8
+CYP3A4,endometrium,1,0.6
+CYP3A4,gallbladder,1,0.6
+CYP3A4,pancreas,1,0.5
+CYP3A4,esophagus,1,0.4
+CYP3A4,thymus,1,0.4
+CYP3A4,adipose tissue,1,0.3
+CYP3A4,breast,1,0.2
+CYP3A4,salivary gland,1,0.2
+CYP3A4,epididymis,1,0.1
+CYP3A4,prostate,1,0.1
+CYP3A4,skeletal muscle,1,0.1
+CYP3A4,spleen,1,0.1
+CYP3A4,bone marrow,1,0
+CYP3A4,cerebral cortex,1,0
+CYP3A4,cervix,1,0
+CYP3A4,choroid plexus,1,0
+CYP3A4,fallopian tube,1,0
+CYP3A4,heart muscle,1,0
+CYP3A4,lung,1,0
+CYP3A4,ovary,1,0
+CYP3A4,parathyroid gland,1,0
+CYP3A4,placenta,1,0
+CYP3A4,seminal vesicle,1,0
+CYP3A4,smooth muscle,1,0
+CYP3A4,thyroid gland,1,0
+CYP3A4,tongue,1,0
+CYP3A4,tonsil,1,0
+CYP3A4,urinary bladder,1,0
+CYP3A43,liver,1,38.6
+CYP3A43,pancreas,1,1.9
+CYP3A43,testis,1,0.7
+CYP3A43,prostate,1,0.5
+CYP3A43,cerebral cortex,1,0.4
+CYP3A43,skeletal muscle,1,0.3
+CYP3A43,bone marrow,1,0.2
+CYP3A43,breast,1,0.2
+CYP3A43,kidney,1,0.2
+CYP3A43,salivary gland,1,0.2
+CYP3A43,skin,1,0.2
+CYP3A43,smooth muscle,1,0.2
+CYP3A43,tongue,1,0.2
+CYP3A43,adipose tissue,1,0.1
+CYP3A43,gallbladder,1,0.1
+CYP3A43,heart muscle,1,0.1
+CYP3A43,lung,1,0.1
+CYP3A43,lymph node,1,0.1
+CYP3A43,rectum,1,0.1
+CYP3A43,seminal vesicle,1,0.1
+CYP3A43,small intestine,1,0.1
+CYP3A43,spleen,1,0.1
+CYP3A43,stomach,1,0.1
+CYP3A43,thymus,1,0.1
+CYP3A43,thyroid gland,1,0.1
+CYP3A43,adrenal gland,1,0
+CYP3A43,appendix,1,0
+CYP3A43,cervix,1,0
+CYP3A43,choroid plexus,1,0
+CYP3A43,colon,1,0
+CYP3A43,duodenum,1,0
+CYP3A43,endometrium,1,0
+CYP3A43,epididymis,1,0
+CYP3A43,esophagus,1,0
+CYP3A43,fallopian tube,1,0
+CYP3A43,ovary,1,0
+CYP3A43,parathyroid gland,1,0
+CYP3A43,placenta,1,0
+CYP3A43,tonsil,1,0
+CYP3A43,urinary bladder,1,0
+CYP3A5,liver,1,198.9
+CYP3A5,small intestine,1,167.3
+CYP3A5,duodenum,1,119.9
+CYP3A5,stomach,1,81.5
+CYP3A5,gallbladder,1,30.6
+CYP3A5,colon,1,26.6
+CYP3A5,rectum,1,19.7
+CYP3A5,skin,1,14.3
+CYP3A5,urinary bladder,1,9.7
+CYP3A5,adrenal gland,1,7.2
+CYP3A5,esophagus,1,7.1
+CYP3A5,pancreas,1,7
+CYP3A5,prostate,1,6.5
+CYP3A5,kidney,1,6.3
+CYP3A5,seminal vesicle,1,5.4
+CYP3A5,lung,1,5.2
+CYP3A5,appendix,1,3.5
+CYP3A5,tonsil,1,3
+CYP3A5,endometrium,1,2.9
+CYP3A5,fallopian tube,1,2.9
+CYP3A5,epididymis,1,2.8
+CYP3A5,choroid plexus,1,1.9
+CYP3A5,thymus,1,1.9
+CYP3A5,lymph node,1,1.3
+CYP3A5,smooth muscle,1,1
+CYP3A5,adipose tissue,1,0.9
+CYP3A5,heart muscle,1,0.9
+CYP3A5,thyroid gland,1,0.9
+CYP3A5,cerebral cortex,1,0.8
+CYP3A5,salivary gland,1,0.8
+CYP3A5,spleen,1,0.7
+CYP3A5,cervix,1,0.6
+CYP3A5,bone marrow,1,0.5
+CYP3A5,skeletal muscle,1,0.5
+CYP3A5,breast,1,0.4
+CYP3A5,placenta,1,0.4
+CYP3A5,testis,1,0.4
+CYP3A5,ovary,1,0.3
+CYP3A5,parathyroid gland,1,0
+CYP3A5,tongue,1,0
+CYP3A7,liver,1,285.4
+CYP3A7,kidney,1,7.9
+CYP3A7,gallbladder,1,6.1
+CYP3A7,lung,1,2.3
+CYP3A7,small intestine,1,1.7
+CYP3A7,prostate,1,0.9
+CYP3A7,adrenal gland,1,0.8
+CYP3A7,duodenum,1,0.5
+CYP3A7,epididymis,1,0.3
+CYP3A7,stomach,1,0.3
+CYP3A7,colon,1,0.2
+CYP3A7,rectum,1,0.2
+CYP3A7,urinary bladder,1,0.2
+CYP3A7,breast,1,0.1
+CYP3A7,esophagus,1,0.1
+CYP3A7,pancreas,1,0.1
+CYP3A7,seminal vesicle,1,0.1
+CYP3A7,skin,1,0.1
+CYP3A7,adipose tissue,1,0
+CYP3A7,appendix,1,0
+CYP3A7,bone marrow,1,0
+CYP3A7,cerebral cortex,1,0
+CYP3A7,cervix,1,0
+CYP3A7,choroid plexus,1,0
+CYP3A7,endometrium,1,0
+CYP3A7,fallopian tube,1,0
+CYP3A7,heart muscle,1,0
+CYP3A7,lymph node,1,0
+CYP3A7,ovary,1,0
+CYP3A7,parathyroid gland,1,0
+CYP3A7,placenta,1,0
+CYP3A7,salivary gland,1,0
+CYP3A7,skeletal muscle,1,0
+CYP3A7,smooth muscle,1,0
+CYP3A7,spleen,1,0
+CYP3A7,testis,1,0
+CYP3A7,thymus,1,0
+CYP3A7,thyroid gland,1,0
+CYP3A7,tongue,1,0
+CYP3A7,tonsil,1,0
+MAOB,liver,1,296.9
+MAOB,ovary,1,164.3
+MAOB,seminal vesicle,1,146.3
+MAOB,kidney,1,116
+MAOB,skeletal muscle,1,107.4
+MAOB,smooth muscle,1,96.6
+MAOB,fallopian tube,1,92.2
+MAOB,heart muscle,1,91.6
+MAOB,choroid plexus,1,91.1
+MAOB,endometrium,1,86.1
+MAOB,prostate,1,77.7
+MAOB,small intestine,1,74.5
+MAOB,salivary gland,1,73.9
+MAOB,adipose tissue,1,73.2
+MAOB,duodenum,1,69.1
+MAOB,tongue,1,60.8
+MAOB,cerebral cortex,1,54.8
+MAOB,epididymis,1,51.9
+MAOB,adrenal gland,1,48.2
+MAOB,breast,1,42.8
+MAOB,cervix,1,30.4
+MAOB,esophagus,1,29.5
+MAOB,lung,1,29.5
+MAOB,stomach,1,22.4
+MAOB,urinary bladder,1,20.5
+MAOB,gallbladder,1,16.2
+MAOB,rectum,1,15.5
+MAOB,parathyroid gland,1,14.7
+MAOB,colon,1,14.5
+MAOB,placenta,1,10.5
+MAOB,pancreas,1,10.3
+MAOB,testis,1,8.4
+MAOB,tonsil,1,6.6
+MAOB,appendix,1,6.1
+MAOB,lymph node,1,5.7
+MAOB,skin,1,3.5
+MAOB,thymus,1,3.5
+MAOB,thyroid gland,1,3.1
+MAOB,spleen,1,2.3
+MAOB,bone marrow,1,0.1

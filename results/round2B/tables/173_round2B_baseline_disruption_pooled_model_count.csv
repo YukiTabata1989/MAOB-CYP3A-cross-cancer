@@ -1,0 +1,2 @@
+n_cells,n_organs,n_genes,beta_baseline_z,robust_se,t_value,p_value,status,model,cluster,interpretation_boundary
+29,9,5,-0.6437335477423287,0.3571085645339977,-1.8026270206718706,0.0845671476214282,estimable_cluster_HC2,logFC ~ within-gene baseline_z + gene fixed effects,organ,Association between normal baseline and cross-sectional cancer shift; not temporal or causal

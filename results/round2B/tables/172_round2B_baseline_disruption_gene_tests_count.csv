@@ -1,0 +1,6 @@
+gene,n_organs,rho,p_value,status,q_value
+CYP3A4,6,-0.5428571428571428,0.2657026239067054,estimable,0.5337293587526822
+CYP3A43,2,,,insufficient_organs_or_variation,
+CYP3A5,9,-0.35,0.35581957250178814,estimable,0.5337293587526822
+CYP3A7,3,,,insufficient_organs_or_variation,
+MAOB,9,0.21666666666666667,0.5755148957119259,estimable,0.5755148957119259

@@ -1,0 +1,60 @@
+[2026-08-30 22:21:01 UTC] TCGA-BLCA: loading cached paired raw-count input
+[2026-08-30 22:21:01 UTC] TCGA-BLCA: loading cached paired limma-voom results
+[2026-08-30 22:21:01 UTC] TCGA-BRCA: loading cached paired raw-count input
+[2026-08-30 22:21:02 UTC] TCGA-BRCA: loading cached paired limma-voom results
+[2026-08-30 22:21:02 UTC] TCGA-COAD: loading cached paired raw-count input
+[2026-08-30 22:21:02 UTC] TCGA-COAD: loading cached paired limma-voom results
+[2026-08-30 22:21:03 UTC] TCGA-ESCA: loading cached paired raw-count input
+[2026-08-30 22:21:03 UTC] TCGA-ESCA: loading cached paired limma-voom results
+[2026-08-30 22:21:03 UTC] TCGA-HNSC: loading cached paired raw-count input
+[2026-08-30 22:21:03 UTC] TCGA-HNSC: loading cached paired limma-voom results
+[2026-08-30 22:21:03 UTC] TCGA-KICH: loading cached paired raw-count input
+[2026-08-30 22:21:04 UTC] TCGA-KICH: loading cached paired limma-voom results
+[2026-08-30 22:21:04 UTC] TCGA-KIRC: loading cached paired raw-count input
+[2026-08-30 22:21:04 UTC] TCGA-KIRC: loading cached paired limma-voom results
+[2026-08-30 22:21:04 UTC] TCGA-KIRP: loading cached paired raw-count input
+[2026-08-30 22:21:04 UTC] TCGA-KIRP: loading cached paired limma-voom results
+[2026-08-30 22:21:05 UTC] TCGA-LIHC: loading cached paired raw-count input
+[2026-08-30 22:21:06 UTC] TCGA-LIHC: fitting paired limma-voom model (50 pairs; 17611 retained genes)
+[2026-08-30 22:21:11 UTC] TCGA-LUAD: loading cached paired raw-count input
+[2026-08-30 22:21:12 UTC] TCGA-LUAD: loading cached paired limma-voom results
+[2026-08-30 22:21:12 UTC] TCGA-LUSC: loading cached paired raw-count input
+[2026-08-30 22:21:12 UTC] TCGA-LUSC: loading cached paired limma-voom results
+[2026-08-30 22:21:12 UTC] TCGA-PRAD: loading cached paired raw-count input
+[2026-08-30 22:21:13 UTC] TCGA-PRAD: loading cached paired limma-voom results
+[2026-08-30 22:21:13 UTC] TCGA-STAD: loading cached paired raw-count input
+[2026-08-30 22:21:13 UTC] TCGA-STAD: loading cached paired limma-voom results
+[2026-08-30 22:21:13 UTC] TCGA-THCA: loading cached paired raw-count input
+[2026-08-30 22:21:13 UTC] TCGA-THCA: loading cached paired limma-voom results
+[2026-08-30 22:26:17 UTC] TCGA-BLCA: loading cached paired raw-count input
+[2026-08-30 22:26:17 UTC] TCGA-BLCA: loading cached paired limma-voom results
+[2026-08-30 22:26:18 UTC] TCGA-BRCA: loading cached paired raw-count input
+[2026-08-30 22:26:18 UTC] TCGA-BRCA: loading cached paired limma-voom results
+[2026-08-30 22:26:18 UTC] TCGA-COAD: loading cached paired raw-count input
+[2026-08-30 22:26:18 UTC] TCGA-COAD: loading cached paired limma-voom results
+[2026-08-30 22:26:19 UTC] TCGA-ESCA: loading cached paired raw-count input
+[2026-08-30 22:26:19 UTC] TCGA-ESCA: loading cached paired limma-voom results
+[2026-08-30 22:26:19 UTC] TCGA-HNSC: loading cached paired raw-count input
+[2026-08-30 22:26:19 UTC] TCGA-HNSC: loading cached paired limma-voom results
+[2026-08-30 22:26:20 UTC] TCGA-KICH: loading cached paired raw-count input
+[2026-08-30 22:26:20 UTC] TCGA-KICH: loading cached paired limma-voom results
+[2026-08-30 22:26:20 UTC] TCGA-KIRC: loading cached paired raw-count input
+[2026-08-30 22:26:20 UTC] TCGA-KIRC: loading cached paired limma-voom results
+[2026-08-30 22:26:20 UTC] TCGA-KIRP: loading cached paired raw-count input
+[2026-08-30 22:26:21 UTC] TCGA-KIRP: loading cached paired limma-voom results
+[2026-08-30 22:26:21 UTC] TCGA-LIHC: loading cached paired raw-count input
+[2026-08-30 22:26:21 UTC] TCGA-LIHC: loading cached paired limma-voom results
+[2026-08-30 22:26:21 UTC] TCGA-LUAD: loading cached paired raw-count input
+[2026-08-30 22:26:21 UTC] TCGA-LUAD: loading cached paired limma-voom results
+[2026-08-30 22:26:22 UTC] TCGA-LUSC: loading cached paired raw-count input
+[2026-08-30 22:26:22 UTC] TCGA-LUSC: loading cached paired limma-voom results
+[2026-08-30 22:26:22 UTC] TCGA-PRAD: loading cached paired raw-count input
+[2026-08-30 22:26:22 UTC] TCGA-PRAD: loading cached paired limma-voom results
+[2026-08-30 22:26:23 UTC] TCGA-STAD: loading cached paired raw-count input
+[2026-08-30 22:26:23 UTC] TCGA-STAD: loading cached paired limma-voom results
+[2026-08-30 22:26:23 UTC] TCGA-THCA: loading cached paired raw-count input
+[2026-08-30 22:26:23 UTC] TCGA-THCA: loading cached paired limma-voom results
+[2026-08-30 22:26:56 UTC] Round 2B complete.
+[2026-08-30 22:26:56 UTC] Tables:  /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:/results/round2B/tables
+[2026-08-30 22:26:56 UTC] Figures: /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:/results/round2B/figures
+[2026-08-30 22:26:56 UTC] Logs:    /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:/results/round2B/logs

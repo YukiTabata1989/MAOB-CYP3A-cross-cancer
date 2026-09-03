@@ -1,0 +1,46 @@
+organ,gene,gtex_baseline_tpm,hpa_n_tissues,hpa_organ_expression,matched_hpa_tissues
+breast,CYP3A4,0.240634,1,0.2,breast
+breast,CYP3A43,0.179372,1,0.2,breast
+breast,CYP3A5,5.13068,1,0.4,breast
+breast,CYP3A7,1.60253,1,0.1,breast
+breast,MAOB,70.224,1,42.8,breast
+colon,CYP3A4,0.230075,1,1.7,colon
+colon,CYP3A43,0.0911057,1,0,colon
+colon,CYP3A5,15.347895,1,26.6,colon
+colon,CYP3A7,0.2537685,1,0.2,colon
+colon,MAOB,53.3664,1,14.5,colon
+esophagus,CYP3A4,0.1491,1,0.4,esophagus
+esophagus,CYP3A43,0.0917395,1,0,esophagus
+esophagus,CYP3A5,2.02717,1,7.1,esophagus
+esophagus,CYP3A7,0.233218,1,0.1,esophagus
+esophagus,MAOB,90.278,1,29.5,esophagus
+kidney,CYP3A4,0.213872,1,4.2,kidney
+kidney,CYP3A43,0.0686738,1,0.2,kidney
+kidney,CYP3A5,8.15326,1,6.3,kidney
+kidney,CYP3A7,0.687882,1,7.9,kidney
+kidney,MAOB,37.6169,1,116,kidney
+liver,CYP3A4,335.297,1,3367.1,liver
+liver,CYP3A43,4.28768,1,38.6,liver
+liver,CYP3A5,155.853,1,198.9,liver
+liver,CYP3A7,24.5131,1,285.4,liver
+liver,MAOB,99.7081,1,296.9,liver
+lung,CYP3A4,0.127294,1,0,lung
+lung,CYP3A43,0.128062,1,0.1,lung
+lung,CYP3A5,17.5528,1,5.2,lung
+lung,CYP3A7,1.68354,1,2.3,lung
+lung,MAOB,58.3808,1,29.5,lung
+prostate,CYP3A4,0.139941,1,0.1,prostate
+prostate,CYP3A43,0.655112,1,0.5,prostate
+prostate,CYP3A5,42.5218,1,6.5,prostate
+prostate,CYP3A7,0.447048,1,0.9,prostate
+prostate,MAOB,58.8878,1,77.7,prostate
+stomach,CYP3A4,0.137481,1,1.1,stomach
+stomach,CYP3A43,0.0996059,1,0.1,stomach
+stomach,CYP3A5,45.2894,1,81.5,stomach
+stomach,CYP3A7,0.119553,1,0.3,stomach
+stomach,MAOB,20.341,1,22.4,stomach
+thyroid,CYP3A4,0.130997,2,0,parathyroid gland;thyroid gland
+thyroid,CYP3A43,0.0938411,2,0.05,parathyroid gland;thyroid gland
+thyroid,CYP3A5,0.624359,2,0.45,parathyroid gland;thyroid gland
+thyroid,CYP3A7,0.0889649,2,0,parathyroid gland;thyroid gland
+thyroid,MAOB,10.0494,2,8.899999999999999,parathyroid gland;thyroid gland

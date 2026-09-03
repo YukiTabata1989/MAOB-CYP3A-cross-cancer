@@ -1,0 +1,14 @@
+analysis_item,status,implementation
+GDC STAR-count paired differential expression,allowed,patient + condition limma-voom; LIHC MAOB/CYP3A4 included in Paper 1
+Matched-background selective-disruption test,allowed,"matched on GTEx baseline, tau, breadth, organ specificity, and TCGA normal abundance"
+Same-gene cross-cancer recurrence null,allowed,one background gene profile retained across cancers; coverage sensitivity reported
+Tissue-identity reference loss,allowed,GTEx-defined reference genes; targets excluded from reference set
+Normal baseline versus count-level disruption,secondary,organ-level exploratory summary including paired LIHC target effects
+Within-patient coexpression rewiring,allowed_non_LIHC_only,same paired TCGA patients; entire LIHC project excluded before vector access
+GTEx-versus-TCGA direct testing,not_run,source and disease status are confounded
+HPA normal validation,allowed,HPA-only RNA tissue dataset; consensus dataset is not used
+"Causal, temporal, GGA, or enzyme-activity inference",forbidden,not identifiable from bulk cross-sectional expression data
+LIHC endpoint or detailed clinical analysis,forbidden,reserved for the separate LIHC manuscript
+LIHC paired MAOB/CYP3A4 expression shifts,allowed_in_pancancer_context,Paper 1 endpoint; no LIHC-specific standalone clinical interpretation
+Any LIHC MAOB-CYP3A coexpression/correlation,forbidden,entire LIHC project excluded from the coexpression module
+"HNF4A, external liver cohorts, pathway, immune, or purity analysis",forbidden,outside this manuscript and/or reserved

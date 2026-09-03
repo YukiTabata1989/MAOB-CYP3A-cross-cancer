@@ -1,0 +1,19 @@
+Analysis ID: MAOB_CYP3A_tissue_disruption_round2B
+Completed: 2026-08-30 22:26:56 UTC
+Project directory: /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:
+Run type: full Tier1
+Cancer projects: BLCA, BRCA, COAD, ESCA, HNSC, KICH, KIRC, KIRP, LIHC, LUAD, LUSC, PRAD, STAD, THCA
+Total paired cases: 661
+Target genes: MAOB, CYP3A4, CYP3A5, CYP3A7, CYP3A43
+Primary DE: GDC STAR unstranded counts, TMM, filterByExpr, paired limma-voom.
+Target statistical multiplicity: BH across all estimable target cells, including LIHC MAOB/CYP3A4.
+Selective disruption: matched on GTEx baseline, tau, breadth, organ specificity, and TCGA adjacent-normal abundance.
+Recurrence null: same background gene retained across cancers; primary minimum coverage 80% and coverage sensitivity analysis.
+Baseline model: count-level logFC, organ aggregation, gene fixed effects, organ-cluster HC2.
+Coexpression: non-LIHC cancers only; patient bootstrap within the same paired cases.
+HPA-only validation: completed
+Paper 1 boundary: LIHC MAOB/CYP3A4 paired expression shifts are included in pan-cancer analyses.
+Paper 2 boundary: the entire LIHC coexpression module was excluded before vector access.
+No LIHC subgroup, survival, Cox, interaction, clinical adjustment, HNF4A, HCCDB18, ICGC-LIRI-JP, pathway, immune, or purity analysis was run.
+No GTEx-versus-TCGA direct hypothesis test was run.
+No causal, temporal, GGA-abundance, or enzyme-activity inference was made.

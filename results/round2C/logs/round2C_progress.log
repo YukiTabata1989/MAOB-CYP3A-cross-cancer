@@ -1,0 +1,14 @@
+[2026-09-01 23:25:32 UTC] Starting MAOB_CYP3A_Xena_audit_round2C
+[2026-09-01 23:25:32 UTC] Input paths validated; checksum snapshot contains 57 Round 2B files.
+[2026-09-01 23:25:33 UTC] Loaded authoritative Round 2B table: 70 cells; 43 finite count-level effects.
+[2026-09-01 23:25:34 UTC] Validated Round 2B patient caches: 661 paired cases.
+[2026-09-01 23:25:34 UTC] Loaded Stage 1 raw Xena caches: 95655 sample-gene values.
+[2026-09-01 23:25:35 UTC] Mapped Xena expression to the 14 audit cancers: 34140 sample-gene rows.
+[2026-09-01 23:25:35 UTC] Recomputed 70 Xena Wilcoxon tests and BH-adjusted all 70 P values.
+[2026-09-01 23:25:35 UTC] Patient-set audit complete. Exact Xena/GDC sets differ in: BRCA, COAD, LUSC, STAD. Differences are recorded and are not treated as execution errors.
+[2026-09-01 23:25:35 UTC] Concordance summary: 43 overlapping cells; direction agreement=0.907; robust-call agreement=0.7209.
+[2026-09-01 23:25:36 UTC] Round 2C complete.
+[2026-09-01 23:25:36 UTC] Cells:     /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:/results/round2C/tables/123_round2C_Xena_count_level_concordance_cells.csv
+[2026-09-01 23:25:36 UTC] Summary:   /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:/results/round2C/tables/124_round2C_Xena_count_level_concordance_summary.csv
+[2026-09-01 23:25:36 UTC] Integrity: /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:/results/round2C/tables/199_round2C_integrity_checks.csv
+[2026-09-01 23:25:36 UTC] Session:   /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:/results/round2C/logs/round2C_sessionInfo.txt

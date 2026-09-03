@@ -1,0 +1,11 @@
+check,result
+selected_projects,BLCA;BRCA;COAD;ESCA;HNSC;KICH;KIRC;KIRP;LIHC;LUAD;LUSC;PRAD;STAD;THCA
+target_grid_complete,TRUE
+unique_target_cells,TRUE
+paired_designs_full_rank,TRUE
+LIHC_MAOB_CYP3A4_returned_to_paired_fit,passed
+entire_LIHC_coexpression_module_excluded,TRUE
+organ_specificity_in_background_matching,TRUE
+same_gene_recurrence_null_created,TRUE
+GTEx_direct_source_test,not_run
+HPA_dataset,completed
