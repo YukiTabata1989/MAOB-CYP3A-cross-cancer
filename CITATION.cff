@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+title: >-
+  Analysis code and reproducibility materials for "Recurrent
+  tumor-associated loss of MAOB transcript expression and
+  member-dependent CYP3A changes across 14 human cancer types"
+message: >-
+  If you use this software or the processed result tables, please
+  cite both the software record and the associated manuscript.
+type: software
+authors:
+  - given-names: Yuki
+    family-names: Tabata
+    email: tabata-yu@mpu.ac.jp
+    orcid: 'https://orcid.org/0000-0002-1117-5215'
+    affiliation: >-
+      Department of Nursing, Faculty of Nursing, Miyazaki
+      Prefectural Nursing University, Miyazaki, Japan
+repository-code: 'https://github.com/YukiTabata1989/MAOB-CYP3A-cross-cancer'
+abstract: >-
+  Analysis code, concordance-audit code, processed result tables,
+  figure-generation code, and reproducibility information for a
+  cross-cancer transcriptomic study of MAOB, CYP3A4, CYP3A5,
+  CYP3A7 and CYP3A43. The study describes the normal-tissue
+  expression architecture of these genes using GTEx v8
+  tissue-median RNA expression, quantifies their paired
+  tumor-adjacent non-tumor differences across 14 TCGA cancer types
+  using count-level RNA-sequencing data, and tests cross-cancer
+  recurrence against an expression-property-matched,
+  covariance-preserving empirical null. Human Protein Atlas RNA
+  data are used only for a descriptive comparison of normal-tissue
+  rankings. The repository contains transcriptomic analyses only
+  and does not include measurements of protein abundance, enzyme
+  activity or metabolite levels.
+keywords:
+  - MAOB
+  - CYP3A
+  - TCGA
+  - GTEx
+  - cross-cancer transcriptomics
+  - paired tumor-normal analysis
+  - reproducible research
+  - R
+license: MIT
+version: 1.0.0
+date-released: '2026-09-03'
