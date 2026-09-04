@@ -1,0 +1,15 @@
+check,result,detail
+all_frozen_inputs_present,TRUE,4/4
+Figure4A_expected_denominators_profiles_and_q,TRUE,MAOB 10/40/q=0.073; CYP3A4 7/89/q=0.073; CYP3A7 4/281/q=0.535
+Figure4A_two_not_evaluable_genes_displayed,TRUE,CYP3A5;CYP3A43
+Figure4B_all_25_gene_coverage_cells_in_status_strip,TRUE,5 genes x 5 coverage settings
+Figure4B_two_endpoints_displayed,TRUE,Recurrent loss (primary);Negative median (supplementary)
+Figure4C_expected_5_6_7_organ_results,TRUE,"5/5, 6/6, 7/7; profiles 162, 89, 45"
+Figure4C_80_and_90_percent_not_evaluable,TRUE,80%;90%
+minimum_text_size_at_least_7pt,TRUE,7.50 pt
+all_figures_174mm_wide,TRUE,174
+all_png_outputs_300dpi,TRUE,300
+all_pdf_devices_vector_and_embedded_font_capable,TRUE,quartz_pdf
+all_six_output_files_exist,TRUE,6/6
+no_continuous_colourbar_used,TRUE,No continuous colour scale appears in the three Round 3C figures
+no_statistical_module_recalculated,TRUE,Only frozen Round 3A values and graphical transformations were used

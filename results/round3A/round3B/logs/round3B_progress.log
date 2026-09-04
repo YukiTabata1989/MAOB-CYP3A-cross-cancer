@@ -1,0 +1,22 @@
+[2026-09-04 01:57:49 UTC] Starting MAOB_CYP3A_tissue_disruption_round3B_figures
+[2026-09-04 01:57:49 UTC] Input recurrence_80: 5 rows x 47 columns; MD5=b29eb1834898907d85aa29b6974be2d1
+[2026-09-04 01:57:49 UTC] Input recurrence_profiles: 3769 rows x 17 columns; MD5=d441e67632e2501d6e48fc9dc31ec1ba
+[2026-09-04 01:57:49 UTC] Input coverage_sensitivity: 25 rows x 46 columns; MD5=37d3e52b33d527ce597b3e0c7b0e0edb
+[2026-09-04 01:57:49 UTC] Input pseudo_target_values: 11181 rows x 13 columns; MD5=1175bdac8ae5f8b6b327bfabea233214
+[2026-09-04 01:57:49 UTC] Input organ_collapsed: 5 rows x 40 columns; MD5=b0369b9ccb51f4f0bdf587e5e6621f4a
+[2026-09-04 01:57:49 UTC] Building Figure 4A from denominator-aligned 80% profiles
+[2026-09-04 01:57:50 UTC] Final-size text audit PASS: Figure4A_round3B_denominator_aligned_recurrence_null; minimum=7.500 pt; threshold>=7.0 pt
+[2026-09-04 01:57:50 UTC] Wrote figure pair: Figure4A_round3B_denominator_aligned_recurrence_null
+[2026-09-04 01:57:50 UTC] Building Figure 4B with primary and supplementary endpoints
+[2026-09-04 01:57:51 UTC] Final-size text audit PASS: Figure4B_round3B_coverage_sensitivity; minimum=7.500 pt; threshold>=7.0 pt
+[2026-09-04 01:57:51 UTC] Final-size text audit PASS: Figure4B_round3B_coverage_sensitivity; minimum=7.500 pt; threshold>=7.0 pt
+[2026-09-04 01:57:51 UTC] Wrote composite figure pair: Figure4B_round3B_coverage_sensitivity
+[2026-09-04 01:57:51 UTC] Building Figure 4C from frozen organ-collapsed MAOB results
+[2026-09-04 01:57:51 UTC] Final-size text audit PASS: Figure4C_round3B_MAOB_organ_collapsed_sensitivity; minimum=7.500 pt; threshold>=7.0 pt
+[2026-09-04 01:57:51 UTC] Wrote figure pair: Figure4C_round3B_MAOB_organ_collapsed_sensitivity
+[2026-09-04 01:57:51 UTC] Building Supplementary Figure S4 from frozen pseudo-target P values
+[2026-09-04 01:57:52 UTC] Final-size text audit PASS: SupplementaryFigureS4_round3B_pseudo_target_calibration_QQ; minimum=7.500 pt; threshold>=7.0 pt
+[2026-09-04 01:57:52 UTC] Wrote figure pair: SupplementaryFigureS4_round3B_pseudo_target_calibration_QQ
+[2026-09-04 01:57:52 UTC] Round 3B complete.
+[2026-09-04 01:57:52 UTC] Figures: /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:/results/round3B/figures
+[2026-09-04 01:57:52 UTC] Logs:    /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:/results/round3B/logs

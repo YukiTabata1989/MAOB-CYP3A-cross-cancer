@@ -1,0 +1,3 @@
+end,value,fill_colour,meaning,guide_reverse,guide_display
+bottom/minimum,-1,#762A83,negative delta rho / purple,FALSE,rectangles
+top/maximum,1,#1B7837,positive delta rho / green,FALSE,rectangles

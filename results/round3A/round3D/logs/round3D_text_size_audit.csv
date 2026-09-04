@@ -1,0 +1,29 @@
+grob_path,label,fontsize_pt
+root/grobs/3/children/GRID.absoluteGrob.4451/children/axis/grobs/2/children/GRID.text.4449,CYP3A43 | CYP3A7 | CYP3A5 | CYP3A4,8
+root/grobs/6/children/panel-1.gTree.4445/children/GRID.text.4437, |  |  |  | * |  | * |  |  |  |  |  |  |  |  |  |  |  |  |  | E | E | E | E | * |  | * | * | * |  |  | * |  |  |  |  |  |  |  | * |  |  |  |  |  |  |  |  |  |  |  | ,8.535826771653543
+root/grobs/7/children/GRID.absoluteGrob.4448/children/axis/grobs/2/children/GRID.text.4446,BLCA | BRCA | COAD | ESCA | HNSC | KICH | KIRC | KIRP | LUAD | LUSC | PRAD | STAD | THCA,8
+root/grobs/13/children/axis.title.y.left..titleGrob.4454/children/GRID.text.4452,MAOB partner,9
+root/grobs/15/children/guide-box/grobs/1/grobs/labels/children/GRID.text.4463,-1.0 | -0.5 | 0.0 | 0.5 | 1.0,7.5
+root/grobs/15/children/guide-box/grobs/1/grobs/5/children/GRID.text.4457,"delta rho
+(tumor - normal)",8
+root/grobs/20/children/plot.subtitle..titleGrob.4471/children/GRID.text.4469,"Non-LIHC cancers only; *=primary FDR<0.05 and |delta rho|>=0.20; E=exploratory n=20-29 (desaturated);
+grey=not estimable",8
+root/grobs/21/children/plot.title..titleGrob.4468/children/GRID.text.4466,Within-patient MAOB-CYP3A coexpression change,10.5
+root/children/panel.9-7-9-7/children/panel-1.gTree.4445/children/GRID.text.4437, |  |  |  | * |  | * |  |  |  |  |  |  |  |  |  |  |  |  |  | E | E | E | E | * |  | * | * | * |  |  | * |  |  |  |  |  |  |  | * |  |  |  |  |  |  |  |  |  |  |  | ,8.535826771653543
+root/children/axis-l.9-6-9-6/children/GRID.absoluteGrob.4451/children/axis/grobs/2/children/GRID.titleGrob.4450/children/GRID.text.4449,CYP3A43 | CYP3A7 | CYP3A5 | CYP3A4,8
+root/children/axis-l.9-6-9-6/children/GRID.absoluteGrob.4451/children/axis/children/axis.1-3-1-3/children/GRID.titleGrob.4450/children/GRID.text.4449,CYP3A43 | CYP3A7 | CYP3A5 | CYP3A4,8
+root/children/axis-b.10-7-10-7/children/GRID.absoluteGrob.4448/children/axis/grobs/2/children/GRID.titleGrob.4447/children/GRID.text.4446,BLCA | BRCA | COAD | ESCA | HNSC | KICH | KIRC | KIRP | LUAD | LUSC | PRAD | STAD | THCA,8
+root/children/axis-b.10-7-10-7/children/GRID.absoluteGrob.4448/children/axis/children/axis.4-1-4-1/children/GRID.titleGrob.4447/children/GRID.text.4446,BLCA | BRCA | COAD | ESCA | HNSC | KICH | KIRC | KIRP | LUAD | LUSC | PRAD | STAD | THCA,8
+root/children/ylab-l.9-5-9-5/children/axis.title.y.left..titleGrob.4454/children/GRID.text.4452,MAOB partner,9
+root/children/guide-box-right.9-11-9-11/children/guide-box/grobs/1/children/layout/grobs/labels/children/GRID.text.4463,-1.0 | -0.5 | 0.0 | 0.5 | 1.0,7.5
+root/children/guide-box-right.9-11-9-11/children/guide-box/grobs/1/children/layout/grobs/5/children/GRID.text.4457,"delta rho
+(tumor - normal)",8
+root/children/guide-box-right.9-11-9-11/children/guide-box/children/guides.3-3-3-3/children/layout/grobs/labels/children/GRID.titleGrob.4464/children/GRID.text.4463,-1.0 | -0.5 | 0.0 | 0.5 | 1.0,7.5
+root/children/guide-box-right.9-11-9-11/children/guide-box/children/guides.3-3-3-3/children/layout/grobs/5/children/guide.title.titleGrob.4459/children/GRID.text.4457,"delta rho
+(tumor - normal)",8
+root/children/guide-box-right.9-11-9-11/children/guide-box/children/guides.3-3-3-3/children/layout/children/title.2-4-2-3/children/guide.title.titleGrob.4459/children/GRID.text.4457,"delta rho
+(tumor - normal)",8
+root/children/guide-box-right.9-11-9-11/children/guide-box/children/guides.3-3-3-3/children/layout/children/label-1-2.3-4-3-4/children/GRID.titleGrob.4464/children/GRID.text.4463,-1.0 | -0.5 | 0.0 | 0.5 | 1.0,7.5
+root/children/subtitle.4-11-4-3/children/plot.subtitle..titleGrob.4471/children/GRID.text.4469,"Non-LIHC cancers only; *=primary FDR<0.05 and |delta rho|>=0.20; E=exploratory n=20-29 (desaturated);
+grey=not estimable",8
+root/children/title.3-11-3-3/children/plot.title..titleGrob.4468/children/GRID.text.4466,Within-patient MAOB-CYP3A coexpression change,10.5

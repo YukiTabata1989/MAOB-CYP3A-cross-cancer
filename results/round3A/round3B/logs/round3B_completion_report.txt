@@ -1,0 +1,14 @@
+Analysis ID: MAOB_CYP3A_tissue_disruption_round3B_figures
+Completed: 2026-09-04 01:57:52 UTC
+Project directory: /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:
+Round 3A input directory: /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:/results/round3A/tables
+Figures written: Figure4A_round3B_denominator_aligned_recurrence_null; Figure4B_round3B_coverage_sensitivity; Figure4C_round3B_MAOB_organ_collapsed_sensitivity; SupplementaryFigureS4_round3B_pseudo_target_calibration_QQ
+Figure 4A: denominator-aligned 80% null; MAOB 10 contexts/40 profiles/q=0.073; CYP3A4 7/89/q=0.073; CYP3A7 4/281/q=0.535.
+Figure 4B: recurrent-loss FDR is primary and negative-median FDR is supplementary; all 25 cells are represented in the status strip.
+Figure 4C: concise target/P-value display was used because table 168 does not contain the full organ-collapsed background distributions.
+Supplementary Figure S4: rebuilt from frozen table 166 values to permit final-size text audit and vector embedded-font rendering.
+Final-size text audit: minimum=7.500 pt; threshold>=7.0 pt.
+PDF devices: quartz_pdf.
+No continuous colourbar was used; no colourbar endpoint audit was required.
+No numerical analysis was recalculated.
+All integrity checks passed.

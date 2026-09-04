@@ -1,0 +1,10 @@
+Analysis ID: MAOB_CYP3A_tissue_disruption_round3D_S1A
+Completed: 2026-09-04 02:29:22 UTC
+Input: /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:/results/round3A/tables/180_round3A_nonLIHC_coexpression_permutation_comparison.csv
+Output PDF: /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:/results/round3D/figures/SupplementaryFigureS1A_round3D_nonLIHC_coexpression_change_heatmap.pdf
+Output PNG: /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:/results/round3D/figures/SupplementaryFigureS1A_round3D_nonLIHC_coexpression_change_heatmap.png
+Asterisks use permutation_robust: 8 cells.
+LUSC MAOB-CYP3A7 is included among the eight asterisked cells.
+Round 2G colours, layout, E overlay, grey handling, dimensions, and font sizes were retained.
+No statistic was recalculated.
+Supplementary Figure S1A only; no other figure was generated.

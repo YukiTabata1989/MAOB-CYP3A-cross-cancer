@@ -1,0 +1,17 @@
+check,result,detail
+Round2B_121_row_count_is_70,TRUE,observed=70
+Round2B_121_checksum_unchanged,TRUE,MD5 before/after=2ba0864276f43384b096f1f0afaa0a86
+Round2B_160_estimable_cells_is_39,TRUE,observed=39
+Round2B_121_and_160_target_logFC_are_identical,TRUE,overlap=39; max_abs_diff=0
+Round3A_160_minimum_two_sided_q_is_0.1724709784,TRUE,0.172470978441
+Round3A_160_two_sided_q_below_0.05_is_zero,TRUE,observed=0
+one_selected_common_set_per_target_coverage,TRUE,selected rows=20
+all_exported_recurrence_profiles_share_selected_denominator,TRUE,profile rows=3769
+Round3A_162_contains_all_five_targets,TRUE,observed rows=5
+coverage_sensitivity_contains_25_target_coverage_rows,TRUE,observed rows=25
+pseudo_target_randomized_and_plus1_values_exported,TRUE,calibration rows=11181
+organ_collapsed_MAOB_uses_median_rule,TRUE,organ rows=5
+coexpression_primary_permutation_cells_is_40,TRUE,permutation estimable=40
+LIHC_excluded_from_entire_coexpression_output,TRUE,LIHC rows=0
+coexpression_permutation_repetitions_is_5000,TRUE,B=5000
+frozen_input_tables_unchanged,TRUE,unchanged inputs=5/5

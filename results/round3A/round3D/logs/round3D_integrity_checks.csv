@@ -1,0 +1,11 @@
+check,result
+input_has_52_cells,TRUE
+LIHC_absent,TRUE
+status_structure_40_4_8,TRUE
+eight_permutation_robust_cells,TRUE
+LUSC_CYP3A7_is_permutation_robust,TRUE
+eight_asterisks_drawn,TRUE
+four_exploratory_E_labels_drawn,TRUE
+minimum_text_at_least_7pt,TRUE
+PDF_and_PNG_exist,TRUE
+no_statistic_recalculated,TRUE
