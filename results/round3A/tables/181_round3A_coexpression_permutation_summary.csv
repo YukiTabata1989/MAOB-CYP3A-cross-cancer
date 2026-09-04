@@ -1,0 +1,2 @@
+n_primary_cells,n_bootstrap_robust,n_permutation_robust,n_robust_by_both,n_bootstrap_only,n_permutation_only,n_not_robust_by_either,robust_call_agreement_fraction,permutation_method
+40,7,8,7,0,1,32,0.975,5000 joint within-patient normal/tumor label swaps; two-sided; BH over 40 primary cells

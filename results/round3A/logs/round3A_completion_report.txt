@@ -1,0 +1,18 @@
+Analysis ID: MAOB_CYP3A_tissue_disruption_round3A
+Completed: 2026-09-03 23:19:44 UTC
+Project directory: /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:
+Round 2B table directory: /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:/results/round2B/tables
+Round 2 cache directory: /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:/data/processed/round2_project_cache
+Frozen analyses not refit: DE 121; GTEx 142; abundance 145; tissue identity 150-152; HPA 190-194.
+Frozen DE 121 MD5: 2ba0864276f43384b096f1f0afaa0a86
+Matched background: two-sided BH across 39 estimable cells; minimum q=0.1724710; q<0.05 cells=0.
+Recurrence common-set rule: fixed k=ceiling(coverage*n), choose the availability-only subset maximizing complete profiles, lexicographic tie-break.
+Coverage fractions evaluated: 0.5, 0.6, 0.7, 0.8, 0.9.
+Endpoint hierarchy: recurrent loss primary; negative median and recurrent gain supplementary. Within-coverage and global sensitivity BH columns exported.
+Pseudo-target calibration: leave-one-out +1 empirical values plus tie-randomized rank values; KS on randomized values is the primary diagnostic.
+Organ-collapsed sensitivity: median across KICH/KIRC/KIRP and LUAD/LUSC; other mapped organs retain their single cancer context.
+Coexpression audit: 5000 paired label permutations for each of 40 primary non-LIHC cells; BH across those 40 cells.
+Bootstrap robust cells: 7; permutation robust cells: 8.
+LIHC was not loaded or evaluated in the coexpression module.
+No clinical, survival, subgroup, pathway, immune, purity, or external liver-cohort analysis was run.
+All integrity checks passed.

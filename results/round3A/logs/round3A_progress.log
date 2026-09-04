@@ -1,0 +1,101 @@
+[2026-09-03 23:19:15 UTC] Input Round 2B table 121: /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:/results/round2B/tables/121_round2B_target_paired_limma_voom_results.csv [70 rows x 22 columns]
+[2026-09-03 23:19:15 UTC] Input Round 2B table 160: /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:/results/round2B/tables/160_round2B_matched_background_cell_results.csv [60 rows x 31 columns]
+[2026-09-03 23:19:15 UTC] Input Round 2B table 161: /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:/results/round2B/tables/161_round2B_matched_background_gene_lists.csv [32916 rows x 14 columns]
+[2026-09-03 23:19:15 UTC] Input Round 2B table 180: /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:/results/round2B/tables/180_round2B_nonLIHC_coexpression_rewiring.csv [52 rows x 20 columns]
+[2026-09-03 23:19:15 UTC] Input Round 2B table 120: /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:/results/round2B/tables/120_round2B_paired_project_qc.csv [14 rows x 9 columns]
+[2026-09-03 23:19:15 UTC] Updating matched-background output with two-sided BH FDR
+[2026-09-03 23:19:15 UTC] Matched background: 39 estimable cells; minimum two-sided FDR = 0.1724710; FDR<0.05 cells = 0
+[2026-09-03 23:19:15 UTC] Enumerating denominator-aligned cancer sets for all targets/coverages
+[2026-09-03 23:19:16 UTC] 80% denominator-aligned recurrence: MAOB; full target loss=11/12; common-set loss=9/10; backgrounds=40; p_loss=0.0487805; q_loss=0.0731707; status=estimable_denominator_aligned_null; contexts=BRCA;COAD;ESCA;KICH;KIRC;KIRP;LUAD;LUSC;PRAD;STAD
+[2026-09-03 23:19:16 UTC] 80% denominator-aligned recurrence: CYP3A4; full target loss=6/8; common-set loss=5/7; backgrounds=89; p_loss=0.0333333; q_loss=0.0731707; status=estimable_denominator_aligned_null; contexts=BRCA;COAD;ESCA;KICH;KIRC;KIRP;STAD
+[2026-09-03 23:19:16 UTC] 80% denominator-aligned recurrence: CYP3A5; full target loss=3/12; common-set loss=2/10; backgrounds=5; p_loss=NA; q_loss=NA; status=insufficient_common_set_candidates; contexts=BRCA;COAD;ESCA;KICH;KIRC;KIRP;LUAD;LUSC;PRAD;STAD
+[2026-09-03 23:19:16 UTC] 80% denominator-aligned recurrence: CYP3A7; full target loss=3/5; common-set loss=2/4; backgrounds=281; p_loss=0.535461; q_loss=0.535461; status=estimable_denominator_aligned_null; contexts=KICH;KIRC;KIRP;LUSC
+[2026-09-03 23:19:16 UTC] 80% denominator-aligned recurrence: CYP3A43; full target loss=2/2; common-set loss=NA/2; backgrounds=NA; p_loss=NA; q_loss=NA; status=insufficient_target_contexts; contexts=NA
+[2026-09-03 23:19:18 UTC] Pseudo-target calibration: 11181 profile-endpoint rows; 42 calibration summaries
+[2026-09-03 23:19:18 UTC] Running organ-collapsed MAOB recurrence sensitivity
+[2026-09-03 23:19:18 UTC] Running paired-label permutation audit for all primary non-LIHC cells (5000 permutations each)
+[2026-09-03 23:19:19 UTC] Permutation cell BRCA-MAOB/CYP3A4: n=113; B=5000
+[2026-09-03 23:19:19 UTC] Permutation cell complete BRCA-MAOB/CYP3A4: delta_rho=-0.3869; P=0.001200
+[2026-09-03 23:19:19 UTC] Permutation cell BRCA-MAOB/CYP3A43: n=113; B=5000
+[2026-09-03 23:19:20 UTC] Permutation cell complete BRCA-MAOB/CYP3A43: delta_rho=0.0110; P=0.934413
+[2026-09-03 23:19:20 UTC] Permutation cell BRCA-MAOB/CYP3A5: n=113; B=5000
+[2026-09-03 23:19:21 UTC] Permutation cell complete BRCA-MAOB/CYP3A5: delta_rho=-0.4507; P=0.003399
+[2026-09-03 23:19:21 UTC] Permutation cell BRCA-MAOB/CYP3A7: n=113; B=5000
+[2026-09-03 23:19:21 UTC] Permutation cell complete BRCA-MAOB/CYP3A7: delta_rho=0.0830; P=0.512498
+[2026-09-03 23:19:21 UTC] Permutation cell COAD-MAOB/CYP3A4: n=41; B=5000
+[2026-09-03 23:19:22 UTC] Permutation cell complete COAD-MAOB/CYP3A4: delta_rho=0.0042; P=0.986603
+[2026-09-03 23:19:22 UTC] Permutation cell COAD-MAOB/CYP3A43: n=41; B=5000
+[2026-09-03 23:19:23 UTC] Permutation cell complete COAD-MAOB/CYP3A43: delta_rho=0.0178; P=0.950610
+[2026-09-03 23:19:23 UTC] Permutation cell COAD-MAOB/CYP3A5: n=41; B=5000
+[2026-09-03 23:19:23 UTC] Permutation cell complete COAD-MAOB/CYP3A5: delta_rho=-0.1002; P=0.713457
+[2026-09-03 23:19:23 UTC] Permutation cell COAD-MAOB/CYP3A7: n=41; B=5000
+[2026-09-03 23:19:24 UTC] Permutation cell complete COAD-MAOB/CYP3A7: delta_rho=0.0976; P=0.683663
+[2026-09-03 23:19:24 UTC] Permutation cell HNSC-MAOB/CYP3A4: n=43; B=5000
+[2026-09-03 23:19:24 UTC] Permutation cell complete HNSC-MAOB/CYP3A4: delta_rho=0.1428; P=0.404519
+[2026-09-03 23:19:24 UTC] Permutation cell HNSC-MAOB/CYP3A43: n=43; B=5000
+[2026-09-03 23:19:25 UTC] Permutation cell complete HNSC-MAOB/CYP3A43: delta_rho=-0.1559; P=0.529894
+[2026-09-03 23:19:25 UTC] Permutation cell HNSC-MAOB/CYP3A5: n=43; B=5000
+[2026-09-03 23:19:25 UTC] Permutation cell complete HNSC-MAOB/CYP3A5: delta_rho=0.2359; P=0.293141
+[2026-09-03 23:19:25 UTC] Permutation cell HNSC-MAOB/CYP3A7: n=43; B=5000
+[2026-09-03 23:19:26 UTC] Permutation cell complete HNSC-MAOB/CYP3A7: delta_rho=-0.1694; P=0.428514
+[2026-09-03 23:19:26 UTC] Permutation cell KIRC-MAOB/CYP3A4: n=72; B=5000
+[2026-09-03 23:19:27 UTC] Permutation cell complete KIRC-MAOB/CYP3A4: delta_rho=-0.7327; P=0.000400
+[2026-09-03 23:19:27 UTC] Permutation cell KIRC-MAOB/CYP3A43: n=72; B=5000
+[2026-09-03 23:19:27 UTC] Permutation cell complete KIRC-MAOB/CYP3A43: delta_rho=-0.2136; P=0.193361
+[2026-09-03 23:19:27 UTC] Permutation cell KIRC-MAOB/CYP3A5: n=72; B=5000
+[2026-09-03 23:19:28 UTC] Permutation cell complete KIRC-MAOB/CYP3A5: delta_rho=-0.5536; P=0.000200
+[2026-09-03 23:19:28 UTC] Permutation cell KIRC-MAOB/CYP3A7: n=72; B=5000
+[2026-09-03 23:19:28 UTC] Permutation cell complete KIRC-MAOB/CYP3A7: delta_rho=-0.6430; P=0.000400
+[2026-09-03 23:19:28 UTC] Permutation cell KIRP-MAOB/CYP3A4: n=32; B=5000
+[2026-09-03 23:19:29 UTC] Permutation cell complete KIRP-MAOB/CYP3A4: delta_rho=-0.6844; P=0.000200
+[2026-09-03 23:19:29 UTC] Permutation cell KIRP-MAOB/CYP3A43: n=32; B=5000
+[2026-09-03 23:19:30 UTC] Permutation cell complete KIRP-MAOB/CYP3A43: delta_rho=0.3682; P=0.161168
+[2026-09-03 23:19:30 UTC] Permutation cell KIRP-MAOB/CYP3A5: n=32; B=5000
+[2026-09-03 23:19:30 UTC] Permutation cell complete KIRP-MAOB/CYP3A5: delta_rho=-0.2324; P=0.199160
+[2026-09-03 23:19:30 UTC] Permutation cell KIRP-MAOB/CYP3A7: n=32; B=5000
+[2026-09-03 23:19:31 UTC] Permutation cell complete KIRP-MAOB/CYP3A7: delta_rho=-0.6513; P=0.000200
+[2026-09-03 23:19:31 UTC] Permutation cell LUAD-MAOB/CYP3A4: n=58; B=5000
+[2026-09-03 23:19:31 UTC] Permutation cell complete LUAD-MAOB/CYP3A4: delta_rho=0.1056; P=0.622276
+[2026-09-03 23:19:31 UTC] Permutation cell LUAD-MAOB/CYP3A43: n=58; B=5000
+[2026-09-03 23:19:32 UTC] Permutation cell complete LUAD-MAOB/CYP3A43: delta_rho=0.2239; P=0.186163
+[2026-09-03 23:19:32 UTC] Permutation cell LUAD-MAOB/CYP3A5: n=58; B=5000
+[2026-09-03 23:19:33 UTC] Permutation cell complete LUAD-MAOB/CYP3A5: delta_rho=-0.2648; P=0.125375
+[2026-09-03 23:19:33 UTC] Permutation cell LUAD-MAOB/CYP3A7: n=58; B=5000
+[2026-09-03 23:19:33 UTC] Permutation cell complete LUAD-MAOB/CYP3A7: delta_rho=-0.0958; P=0.363327
+[2026-09-03 23:19:33 UTC] Permutation cell LUSC-MAOB/CYP3A4: n=51; B=5000
+[2026-09-03 23:19:34 UTC] Permutation cell complete LUSC-MAOB/CYP3A4: delta_rho=0.2791; P=0.161768
+[2026-09-03 23:19:34 UTC] Permutation cell LUSC-MAOB/CYP3A43: n=51; B=5000
+[2026-09-03 23:19:34 UTC] Permutation cell complete LUSC-MAOB/CYP3A43: delta_rho=0.4419; P=0.034793
+[2026-09-03 23:19:34 UTC] Permutation cell LUSC-MAOB/CYP3A5: n=51; B=5000
+[2026-09-03 23:19:35 UTC] Permutation cell complete LUSC-MAOB/CYP3A5: delta_rho=-0.3916; P=0.023195
+[2026-09-03 23:19:35 UTC] Permutation cell LUSC-MAOB/CYP3A7: n=51; B=5000
+[2026-09-03 23:19:36 UTC] Permutation cell complete LUSC-MAOB/CYP3A7: delta_rho=-0.4205; P=0.000200
+[2026-09-03 23:19:36 UTC] Permutation cell PRAD-MAOB/CYP3A4: n=52; B=5000
+[2026-09-03 23:19:36 UTC] Permutation cell complete PRAD-MAOB/CYP3A4: delta_rho=-0.1778; P=0.341332
+[2026-09-03 23:19:36 UTC] Permutation cell PRAD-MAOB/CYP3A43: n=52; B=5000
+[2026-09-03 23:19:37 UTC] Permutation cell complete PRAD-MAOB/CYP3A43: delta_rho=0.1855; P=0.404519
+[2026-09-03 23:19:37 UTC] Permutation cell PRAD-MAOB/CYP3A5: n=52; B=5000
+[2026-09-03 23:19:38 UTC] Permutation cell complete PRAD-MAOB/CYP3A5: delta_rho=0.3674; P=0.045591
+[2026-09-03 23:19:38 UTC] Permutation cell PRAD-MAOB/CYP3A7: n=52; B=5000
+[2026-09-03 23:19:39 UTC] Permutation cell complete PRAD-MAOB/CYP3A7: delta_rho=0.0953; P=0.631674
+[2026-09-03 23:19:39 UTC] Permutation cell STAD-MAOB/CYP3A4: n=33; B=5000
+[2026-09-03 23:19:40 UTC] Permutation cell complete STAD-MAOB/CYP3A4: delta_rho=-0.1631; P=0.572885
+[2026-09-03 23:19:40 UTC] Permutation cell STAD-MAOB/CYP3A43: n=33; B=5000
+[2026-09-03 23:19:40 UTC] Permutation cell complete STAD-MAOB/CYP3A43: delta_rho=-0.4213; P=0.144371
+[2026-09-03 23:19:40 UTC] Permutation cell STAD-MAOB/CYP3A5: n=33; B=5000
+[2026-09-03 23:19:41 UTC] Permutation cell complete STAD-MAOB/CYP3A5: delta_rho=0.0458; P=0.879224
+[2026-09-03 23:19:41 UTC] Permutation cell STAD-MAOB/CYP3A7: n=33; B=5000
+[2026-09-03 23:19:41 UTC] Permutation cell complete STAD-MAOB/CYP3A7: delta_rho=-0.3180; P=0.166367
+[2026-09-03 23:19:41 UTC] Permutation cell THCA-MAOB/CYP3A4: n=59; B=5000
+[2026-09-03 23:19:42 UTC] Permutation cell complete THCA-MAOB/CYP3A4: delta_rho=0.2658; P=0.163767
+[2026-09-03 23:19:42 UTC] Permutation cell THCA-MAOB/CYP3A43: n=59; B=5000
+[2026-09-03 23:19:43 UTC] Permutation cell complete THCA-MAOB/CYP3A43: delta_rho=0.0178; P=0.914017
+[2026-09-03 23:19:43 UTC] Permutation cell THCA-MAOB/CYP3A5: n=59; B=5000
+[2026-09-03 23:19:43 UTC] Permutation cell complete THCA-MAOB/CYP3A5: delta_rho=0.0352; P=0.835633
+[2026-09-03 23:19:43 UTC] Permutation cell THCA-MAOB/CYP3A7: n=59; B=5000
+[2026-09-03 23:19:44 UTC] Permutation cell complete THCA-MAOB/CYP3A7: delta_rho=0.0213; P=0.903219
+[2026-09-03 23:19:44 UTC] Coexpression permutation: 40 primary cells; bootstrap robust=7; permutation robust=8; robust-call agreement=0.975
+[2026-09-03 23:19:44 UTC] Round 3A complete.
+[2026-09-03 23:19:44 UTC] Tables:  /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:/results/round3A/tables
+[2026-09-03 23:19:44 UTC] Figures: /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:/results/round3A/figures
+[2026-09-03 23:19:44 UTC] Logs:    /Users/yuki/Documents/MAOB_CYP3A_tissue_disruption:/results/round3A/logs
